@@ -1,0 +1,57 @@
+{
+  "resourceType": "GMProject",
+  "resourceVersion": "1.6",
+  "name": "dungeon-escape-rpg-game",
+  "resources": [
+    {"id":{"name":"spr_adventurer_attack_up","path":"sprites/spr_adventurer_attack_up/spr_adventurer_attack_up.yy",},"order":8,},
+    {"id":{"name":"spr_adventurer_idle_right","path":"sprites/spr_adventurer_idle_right/spr_adventurer_idle_right.yy",},"order":3,},
+    {"id":{"name":"spr_adventurer_idle_up","path":"sprites/spr_adventurer_idle_up/spr_adventurer_idle_up.yy",},"order":1,},
+    {"id":{"name":"spr_adventurer_run_right","path":"sprites/spr_adventurer_run_right/spr_adventurer_run_right.yy",},"order":7,},
+    {"id":{"name":"spr_adventurer_attack_down","path":"sprites/spr_adventurer_attack_down/spr_adventurer_attack_down.yy",},"order":9,},
+    {"id":{"name":"spr_adventurer_attack_left","path":"sprites/spr_adventurer_attack_left/spr_adventurer_attack_left.yy",},"order":10,},
+    {"id":{"name":"spr_adventurer_run_up","path":"sprites/spr_adventurer_run_up/spr_adventurer_run_up.yy",},"order":4,},
+    {"id":{"name":"spr_adventurer_run_left","path":"sprites/spr_adventurer_run_left/spr_adventurer_run_left.yy",},"order":6,},
+    {"id":{"name":"spr_adventurer_attack_right","path":"sprites/spr_adventurer_attack_right/spr_adventurer_attack_right.yy",},"order":11,},
+    {"id":{"name":"spr_adventurer_idle","path":"sprites/spr_adventurer_idle/spr_adventurer_idle.yy",},"order":0,},
+    {"id":{"name":"spr_adventurer_run_down","path":"sprites/spr_adventurer_run_down/spr_adventurer_run_down.yy",},"order":5,},
+    {"id":{"name":"spr_adventurer_idle_left","path":"sprites/spr_adventurer_idle_left/spr_adventurer_idle_left.yy",},"order":2,},
+    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
+  ],
+  "Options": [
+    {"name":"Android","path":"options/android/options_android.yy",},
+    {"name":"HTML5","path":"options/html5/options_html5.yy",},
+    {"name":"iOS","path":"options/ios/options_ios.yy",},
+    {"name":"Linux","path":"options/linux/options_linux.yy",},
+    {"name":"macOS","path":"options/mac/options_mac.yy",},
+    {"name":"Main","path":"options/main/options_main.yy",},
+    {"name":"tvOS","path":"options/tvos/options_tvos.yy",},
+    {"name":"Windows","path":"options/windows/options_windows.yy",},
+    {"name":"operagx","path":"options/operagx/options_operagx.yy",},
+  ],
+  "defaultScriptType": 0,
+  "isEcma": false,
+  "configs": {
+    "name": "Default",
+    "children": [],
+  },
+  "RoomOrderNodes": [
+    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+  ],
+  "Folders": [
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sprites","folderPath":"folders/Sprites.yy","order":1,},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Tile Sets","folderPath":"folders/Tile Sets.yy","order":2,},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sounds","folderPath":"folders/Sounds.yy","order":3,},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Objects","folderPath":"folders/Objects.yy","order":9,},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Rooms","folderPath":"folders/Rooms.yy","order":10,},
+  ],
+  "AudioGroups": [
+    {"resourceType":"GMAudioGroup","resourceVersion":"1.3","name":"audiogroup_default","targets":-1,},
+  ],
+  "TextureGroups": [
+    {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","isScaled":true,"compressFormat":"bz2","loadType":"default","directory":"","autocrop":true,"border":2,"mipsToGenerate":0,"groupParent":null,"targets":-1,},
+  ],
+  "IncludedFiles": [],
+  "MetaData": {
+    "IDEVersion": "2022.0.3.85",
+  },
+}
