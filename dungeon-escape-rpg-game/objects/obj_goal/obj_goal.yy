@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_enemy",
+  "name": "obj_goal",
   "spriteId": {
-    "name": "spr_enemy_idle",
-    "path": "sprites/spr_enemy_idle/spr_enemy_idle.yy",
+    "name": "spr_goal",
+    "path": "sprites/spr_goal/spr_goal.yy",
   },
   "solid": true,
   "visible": true,
@@ -24,10 +24,7 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":true,"eventNum":0,"eventType":0,"collisionObjectId":null,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_blocker","path":"objects/obj_blocker/obj_blocker.yy",},},
-  ],
+  "eventList": [],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
