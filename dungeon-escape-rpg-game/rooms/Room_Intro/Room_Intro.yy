@@ -6,7 +6,7 @@
   "volume": 1.0,
   "parentRoom": null,
   "views": [
-    {"inherit":false,"visible":true,"xview":0,"yview":0,"wview":200,"hview":150,"xport":0,"yport":0,"wport":1366,"hport":768,"hborder":200,"vborder":200,"hspeed":-1,"vspeed":-1,"objectId":{"name":"obj_adventurer","path":"objects/obj_adventurer/obj_adventurer.yy",},},
+    {"inherit":false,"visible":true,"xview":0,"yview":17,"wview":145,"hview":105,"xport":0,"yport":0,"wport":1000,"hport":700,"hborder":200,"vborder":200,"hspeed":-1,"vspeed":-1,"objectId":{"name":"obj_adventurer","path":"objects/obj_adventurer/obj_adventurer.yy",},},
     {"inherit":false,"visible":false,"xview":0,"yview":0,"wview":1366,"hview":768,"xport":0,"yport":0,"wport":1366,"hport":768,"hborder":32,"vborder":32,"hspeed":-1,"vspeed":-1,"objectId":null,},
     {"inherit":false,"visible":false,"xview":0,"yview":0,"wview":1366,"hview":768,"xport":0,"yport":0,"wport":1366,"hport":768,"hborder":32,"vborder":32,"hspeed":-1,"vspeed":-1,"objectId":null,},
     {"inherit":false,"visible":false,"xview":0,"yview":0,"wview":1366,"hview":768,"xport":0,"yport":0,"wport":1366,"hport":768,"hborder":32,"vborder":32,"hspeed":-1,"vspeed":-1,"objectId":null,},
@@ -18,7 +18,7 @@
   "layers": [
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Instances","instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_18560D19","properties":[],"isDnd":false,"objectId":{"name":"obj_adventurer","path":"objects/obj_adventurer/obj_adventurer.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":67.0,"y":64.0,},
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_36223DA9","properties":[],"isDnd":false,"objectId":{"name":"obj_enemy","path":"objects/obj_enemy/obj_enemy.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":273.0,"y":32.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_36223DA9","properties":[],"isDnd":false,"objectId":{"name":"obj_enemy","path":"objects/obj_enemy/obj_enemy.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.5,"scaleY":1.5,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":250.0,"y":16.0,},
       ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritVisibility":true,"inheritSubLayers":true,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],},
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"blocker","instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_174832D4","properties":[],"isDnd":false,"objectId":{"name":"obj_blocker","path":"objects/obj_blocker/obj_blocker.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":7.7500005,"scaleY":0.25013995,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":0.0,"y":0.0,},
@@ -34,7 +34,7 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_10715499","properties":[],"isDnd":false,"objectId":{"name":"obj_blocker","path":"objects/obj_blocker/obj_blocker.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.21875,"scaleY":2.296875,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":386.0,"y":126.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_6A99D57","properties":[],"isDnd":false,"objectId":{"name":"obj_blocker","path":"objects/obj_blocker/obj_blocker.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":2.53125,"scaleY":0.234375,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":224.0,"y":258.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_45562DDD","properties":[],"isDnd":false,"objectId":{"name":"obj_goal","path":"objects/obj_goal/obj_goal.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.6495842,"scaleY":0.64044946,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":45.0,"y":259.0,},
-      ],"visible":true,"depth":100,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritVisibility":true,"inheritSubLayers":true,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],},
+      ],"visible":false,"depth":100,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritVisibility":true,"inheritSubLayers":true,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],},
     {"resourceType":"GMRTileLayer","resourceVersion":"1.1","name":"Tiles_decoration","tilesetId":{"name":"ts_dungeon","path":"tilesets/ts_dungeon/ts_dungeon.yy",},"x":0,"y":0,"tiles":{"TileDataFormat":1,"SerialiseWidth":32,"SerialiseHeight":32,"TileCompressedData":[
 -9,-2147483648,-3,0,-29,-2147483648,-6,0,-27,-2147483648,-5,0,-27,-2147483648,-4,0,-58,-2147483648,1,0,-31,-2147483648,1,0,-62,-2147483648,1,0,-4,-2147483648,1,0,
 -26,-2147483648,1,0,-4,-2147483648,1,0,-26,-2147483648,1,0,-167,-2147483648,3,0,-2147483648,0,-29,-2147483648,2,0,-2147483648,-4,0,-23,-2147483648,-9,0,-23,-2147483648,-9,
@@ -101,7 +101,7 @@
   },
   "viewSettings": {
     "inheritViewSettings": false,
-    "enableViews": false,
+    "enableViews": true,
     "clearViewBackground": false,
     "clearDisplayBuffer": true,
   },
