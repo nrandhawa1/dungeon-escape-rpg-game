@@ -1,3 +1,11 @@
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 1C26EE6B
+/// @DnDArgument : "expr" "var_adventurer_speed"
+/// @DnDArgument : "expr_relative" "1"
+/// @DnDArgument : "var" "y"
+y += var_adventurer_speed;
+
 /// @DnDAction : YoYo Games.Instances.Set_Sprite
 /// @DnDVersion : 1
 /// @DnDHash : 715ED395
