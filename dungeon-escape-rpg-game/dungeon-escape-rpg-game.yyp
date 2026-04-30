@@ -16,6 +16,7 @@
     {"id":{"name":"obj_goal","path":"objects/obj_goal/obj_goal.yy",},"order":3,},
     {"id":{"name":"spr_blocker","path":"sprites/spr_blocker/spr_blocker.yy",},"order":13,},
     {"id":{"name":"obj_enemy","path":"objects/obj_enemy/obj_enemy.yy",},"order":4,},
+    {"id":{"name":"Room_level","path":"rooms/Room_level/Room_level.yy",},"order":1,},
     {"id":{"name":"spr_adventurer_run_left","path":"sprites/spr_adventurer_run_left/spr_adventurer_run_left.yy",},"order":6,},
     {"id":{"name":"spr_goal","path":"sprites/spr_goal/spr_goal.yy",},"order":14,},
     {"id":{"name":"spr_goal_open","path":"sprites/spr_goal_open/spr_goal_open.yy",},"order":15,},
@@ -50,6 +51,7 @@
   },
   "RoomOrderNodes": [
     {"roomId":{"name":"Room_Intro","path":"rooms/Room_Intro/Room_Intro.yy",},},
+    {"roomId":{"name":"Room_level","path":"rooms/Room_level/Room_level.yy",},},
   ],
   "Folders": [
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Objects","folderPath":"folders/Objects.yy","order":9,},
