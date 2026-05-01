@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_adventurer",
+  "name": "obj_player",
   "spriteId": {
     "name": "spr_adventurer_idle",
     "path": "sprites/spr_adventurer_idle/spr_adventurer_idle.yy",
