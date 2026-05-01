@@ -17,7 +17,7 @@ image_index += 0;
 
 /// @DnDAction : YoYo Games.Movement.Set_Direction_Fixed
 /// @DnDVersion : 1.1
-/// @DnDHash : 14A7B282
+/// @DnDHash : 7442BDE6
 /// @DnDArgument : "direction" "270"
 direction = 270;
 
