@@ -26,6 +26,7 @@
     {"id":{"name":"obj_blocker","path":"objects/obj_blocker/obj_blocker.yy",},"order":1,},
     {"id":{"name":"ts_dungeon","path":"tilesets/ts_dungeon/ts_dungeon.yy",},"order":0,},
     {"id":{"name":"Room_Intro","path":"rooms/Room_Intro/Room_Intro.yy",},"order":0,},
+    {"id":{"name":"obj_attack","path":"objects/obj_attack/obj_attack.yy",},"order":6,},
     {"id":{"name":"spr_adventurer_idle","path":"sprites/spr_adventurer_idle/spr_adventurer_idle.yy",},"order":0,},
     {"id":{"name":"spr_enemyblocker","path":"sprites/spr_enemyblocker/spr_enemyblocker.yy",},"order":17,},
     {"id":{"name":"spr_adventurer_run_down","path":"sprites/spr_adventurer_run_down/spr_adventurer_run_down.yy",},"order":5,},
