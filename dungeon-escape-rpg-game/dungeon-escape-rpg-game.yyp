@@ -21,6 +21,7 @@
     {"id":{"name":"spr_goal","path":"sprites/spr_goal/spr_goal.yy",},"order":14,},
     {"id":{"name":"spr_goal_open","path":"sprites/spr_goal_open/spr_goal_open.yy",},"order":15,},
     {"id":{"name":"spr_adventurer_attack_right","path":"sprites/spr_adventurer_attack_right/spr_adventurer_attack_right.yy",},"order":11,},
+    {"id":{"name":"spr_attack","path":"sprites/spr_attack/spr_attack.yy",},"order":20,},
     {"id":{"name":"spr_textbubble","path":"sprites/spr_textbubble/spr_textbubble.yy",},"order":19,},
     {"id":{"name":"spr_enemy","path":"sprites/spr_enemy/spr_enemy.yy",},"order":16,},
     {"id":{"name":"obj_blocker","path":"objects/obj_blocker/obj_blocker.yy",},"order":1,},
