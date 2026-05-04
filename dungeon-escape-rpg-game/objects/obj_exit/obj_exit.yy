@@ -7,7 +7,7 @@
     "path": "sprites/spr_exit/spr_exit.yy",
   },
   "solid": false,
-  "visible": true,
+  "visible": false,
   "managed": true,
   "spriteMaskId": null,
   "persistent": false,
