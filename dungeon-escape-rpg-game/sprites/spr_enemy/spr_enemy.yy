@@ -3,7 +3,7 @@
   "resourceVersion": "1.0",
   "name": "spr_enemy",
   "bboxMode": 0,
-  "collisionKind": 4,
+  "collisionKind": 3,
   "type": 0,
   "origin": 0,
   "preMultiplyAlpha": false,
