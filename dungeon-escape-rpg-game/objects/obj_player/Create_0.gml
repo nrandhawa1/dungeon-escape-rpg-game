@@ -21,6 +21,13 @@ hp = 10;
 
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
+/// @DnDHash : 0A1E7335
+/// @DnDArgument : "expr" "10"
+/// @DnDArgument : "var" "hp_total"
+hp_total = 10;
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
 /// @DnDHash : 1E883CA5
 /// @DnDArgument : "var" "facing"
 facing = 0;

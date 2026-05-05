@@ -12,9 +12,10 @@ draw_set_alpha(l1991B5FB_0 / $ff);
 /// @DnDArgument : "x1" "7"
 /// @DnDArgument : "y1" "5"
 /// @DnDArgument : "x2" "175"
+/// @DnDArgument : "x2_relative" "1"
 /// @DnDArgument : "y2" "40"
 /// @DnDArgument : "fill" "1"
-draw_rectangle(7, 5, 175, 40, 0);
+draw_rectangle(7, 5, x + 175, 40, 0);
 
 /// @DnDAction : YoYo Games.Drawing.Set_Color
 /// @DnDVersion : 1
