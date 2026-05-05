@@ -13,6 +13,7 @@
     {"id":{"name":"gamemanager","path":"objects/gamemanager/gamemanager.yy",},"order":7,},
     {"id":{"name":"spr_adventurer_attack_down","path":"sprites/spr_adventurer_attack_down/spr_adventurer_attack_down.yy",},"order":9,},
     {"id":{"name":"spr_adventurer_attack_left","path":"sprites/spr_adventurer_attack_left/spr_adventurer_attack_left.yy",},"order":10,},
+    {"id":{"name":"spr_lives_icon","path":"sprites/spr_lives_icon/spr_lives_icon.yy",},"order":25,},
     {"id":{"name":"spr_adventurer_run_up","path":"sprites/spr_adventurer_run_up/spr_adventurer_run_up.yy",},"order":4,},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"order":0,},
     {"id":{"name":"obj_goal2","path":"objects/obj_goal2/obj_goal2.yy",},"order":10,},
