@@ -44,6 +44,7 @@
     {"id":{"name":"obj_blocker","path":"objects/obj_blocker/obj_blocker.yy",},"order":1,},
     {"id":{"name":"ts_dungeon","path":"tilesets/ts_dungeon/ts_dungeon.yy",},"order":0,},
     {"id":{"name":"Room_Intro","path":"rooms/Room_Intro/Room_Intro.yy",},"order":0,},
+    {"id":{"name":"snd_lose","path":"sounds/snd_lose/snd_lose.yy",},"order":5,},
     {"id":{"name":"spr_key","path":"sprites/spr_key/spr_key.yy",},"order":21,},
     {"id":{"name":"spr_keytutrestart","path":"sprites/spr_keytutrestart/spr_keytutrestart.yy",},"order":28,},
     {"id":{"name":"snd_keycollected","path":"sounds/snd_keycollected/snd_keycollected.yy",},"order":2,},

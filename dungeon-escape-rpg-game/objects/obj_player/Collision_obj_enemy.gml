@@ -7,5 +7,5 @@ if (alarm[0] < 0)
 	if (hp <=0)
 	{
 		room_restart();
-}
+	}
 }
