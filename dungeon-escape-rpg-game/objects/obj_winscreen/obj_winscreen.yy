@@ -1,12 +1,12 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_keytutrestart",
+  "name": "obj_winscreen",
   "spriteId": {
-    "name": "spr_keytutrestart",
-    "path": "sprites/spr_keytutrestart/spr_keytutrestart.yy",
+    "name": "spr_youwin",
+    "path": "sprites/spr_youwin/spr_youwin.yy",
   },
-  "solid": true,
+  "solid": false,
   "visible": true,
   "managed": true,
   "spriteMaskId": null,

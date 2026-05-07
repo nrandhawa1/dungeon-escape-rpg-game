@@ -6,7 +6,7 @@
     "name": "spr_keytutkeys",
     "path": "sprites/spr_keytutkeys/spr_keytutkeys.yy",
   },
-  "solid": false,
+  "solid": true,
   "visible": true,
   "managed": true,
   "spriteMaskId": null,

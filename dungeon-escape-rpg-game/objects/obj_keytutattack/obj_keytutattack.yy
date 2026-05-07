@@ -6,7 +6,7 @@
     "name": "spr_keytutattack",
     "path": "sprites/spr_keytutattack/spr_keytutattack.yy",
   },
-  "solid": false,
+  "solid": true,
   "visible": true,
   "managed": true,
   "spriteMaskId": null,

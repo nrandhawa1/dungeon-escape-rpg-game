@@ -1,9 +1,9 @@
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 61014A85
-/// @DnDArgument : "expr" "0.4"
+/// @DnDArgument : "expr" "0.465"
 /// @DnDArgument : "var" "var_adventurer_speed"
-var_adventurer_speed = 0.4;
+var_adventurer_speed = 0.465;
 
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
