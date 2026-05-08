@@ -3,8 +3,8 @@
   "resourceVersion": "1.0",
   "name": "obj_painting7",
   "spriteId": {
-    "name": "spr_painting6",
-    "path": "sprites/spr_painting6/spr_painting6.yy",
+    "name": "spr_painting7",
+    "path": "sprites/spr_painting7/spr_painting7.yy",
   },
   "solid": false,
   "visible": true,
