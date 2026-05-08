@@ -9,7 +9,8 @@ facing = point_direction(0, 0, _hor, _ver);
 
 
 if (keyboard_check_pressed(vk_space))
-{
+{ 
+	audio_play_sound(snd_attack, 1, false);
 	var _inst = instance_create_depth(x, y, depth, obj_attack);
 	_inst.image_angle = facing
 	_inst.damage *=damage;
